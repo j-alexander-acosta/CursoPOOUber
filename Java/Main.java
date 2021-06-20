@@ -3,7 +3,7 @@ class Main {
         System.out.println("Hola Mundo");
         Car car = new Car();
         car.license = "AMQ123";
-        car.driver = "Andrés Herrera";
+        car.driver = "Andres Herrera";
         car.passegenger = 4;
         car.printDataCar();
 
