@@ -6,5 +6,10 @@
         public $document;
         public $email;
         public $password;
+
+        public function_construct($name, $document) {
+            $this->name = $name;
+            $this->document = $document;
+        }
     }
 ?>
